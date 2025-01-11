@@ -17,7 +17,7 @@ int main()
 			j++;
 		}
 	}
-	printf("Unique Elements\n");
+	printf("Unique Elements \n");
 	if(result[0]==0)
 	{
 		printf("%d ",0);
